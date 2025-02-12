@@ -1,4 +1,4 @@
-# Simple project React, Vite
+# React, Vite
 
 What are cookies? | Cookies definition
 
