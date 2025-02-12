@@ -1,8 +1,9 @@
-# React + Vite
+# Simple project React, Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+What are cookies? | Cookies definition
 
-Currently, two official plugins are available:
+An HTTP cookie stores information in a user's web browser. Web servers generate cookies and send them to browsers, which then include the cookies in future HTTP requests.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/user-attachments/assets/e135d6cd-be42-4404-8fd0-d3404ac7d06e)
+![image](https://github.com/user-attachments/assets/5b088b22-8e34-4e48-8a09-37d242f67129)
+![image](https://github.com/user-attachments/assets/374ad524-c20f-4e54-92cf-18c55db35c80)
