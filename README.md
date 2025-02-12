@@ -9,7 +9,7 @@ An HTTP cookie stores information in a user's web browser. Web servers generate 
 ![image](https://github.com/user-attachments/assets/374ad524-c20f-4e54-92cf-18c55db35c80)
 ![image](https://github.com/user-attachments/assets/5b088b22-8e34-4e48-8a09-37d242f67129)
 
-Установка зависимостей
+# Установка зависимостей
 Перед запуском проекта необходимо установить все необходимые зависимости. Для этого выполните следующую команду в корневой директории проекта:
 
 
